@@ -1,0 +1,6 @@
+input::placeholder, select {
+  font-size: 14px;
+}
+form input, form select {
+  border-radius: 6px;
+}
